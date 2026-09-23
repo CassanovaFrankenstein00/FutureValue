@@ -1,0 +1,26 @@
+{
+  "version": "3.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "twitter-bootstrap@5.1.0",
+      "destination": "wwwroot/lib/bootstrap/dist"
+    },
+    {
+      "library": "jquery@4.0.0",
+      "destination": "wwwroot/lib/jquery/dist"
+    },
+    {
+      "library": "jquery-validate@1.22.1",
+      "destination": "wwwroot/lib/jquery-validation/dist/"
+    },
+    {
+      "library": "jquery-validation-unobtrusive@4.0.0",
+      "destination": "wwwroot/lib/jquery-validation-unobtrusive/"
+    },
+    {
+      "library": "popper.js@2.11.8",
+      "destination": "wwwroot/lib/"
+    }
+  ]
+}
